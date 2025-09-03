@@ -4,24 +4,21 @@
 I’m a Cybersecurity Analyst and Senior Systems Administrator with 15+ years of experience securing and optimizing enterprise IT environments.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in IT and systems administration has led me to develop a deep passion for cybersecurity, and I am now focused on advancing my skills in Blue Teaming/Security Operations, showcasing practical projects in my portfolio that reflect real-world IT and security solutions.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Enhanced SIEM analysis and threat detection   | <a href="https://github.com/dmandrew01/Detection-Lab">Detection Lab</a>|
+| Strengthened phishing detection and response skills | <a href="https://github.com/dmandrew01/Phishing-Email-Investigation">Phishing Email Investigation</a>|
+| Improved triage, containment, and incident handling | <a href="https://github.com/dmandrew01/Queue-Management">Queue Management</a>|
+| Gained expertise in malware investigation workflow  | <a href="https://github.com/dmandrew01/PDF-Malware-Analysis">PDF Malware Analysis</a>|
+| Practiced ransomware detection and containment strategies | <a href="https://github.com/dmandrew01/Ransomware-Detection-and-Response">Ransomware Detection and Response</a>|
+| Improved web attack detection and analysis    | <a href="https://github.com/dmandrew01/Web-Attack-Investigation">Web Attack Investigation</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -43,7 +40,6 @@ My journey in IT and systems administration has led me to develop a deep passion
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,5 +49,9 @@ My journey in IT and systems administration has led me to develop a deep passion
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/dmandrew01/Detection-Lab">Detection Lab</a>
+- <a href="https://github.com/dmandrew01/Phishing-Email-Investigation">Phishing Email Investigation</a>
+- <a href="https://github.com/dmandrew01/Queue-Management">Queue Management</a>
+- <a href="https://github.com/dmandrew01/PDF-Malware-Analysis">PDF Malware Analysis</a>
+- <a href="https://github.com/dmandrew01/Ransomware-Detection-and-Response">Ransomware Detection and Response</a>
+- <a href="https://github.com/dmandrew01/Web-Attack-Investigation">Web Attack Investigation</a>
