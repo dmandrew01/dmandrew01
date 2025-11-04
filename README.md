@@ -1,7 +1,7 @@
 # Hello, I'm Andrew
 <a href="[https://linkedin.com](https://www.linkedin.com/in/andrewlhernandez/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a Cybersecurity Analyst and Senior Systems Administrator with 15+ years of experience securing and optimizing enterprise IT environments.
+I’m a Security Analyst and Senior Systems Administrator and veteran with 15+ years of experience securing and optimizing enterprise IT environments.
 
 ## Objective
 
@@ -11,6 +11,7 @@ My journey in IT and systems administration has led me to develop a deep passion
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| End-to-end SOC design, network monitoring, SIEM log analysis, IDS/IPS tuning, and adversary emulation | <a href="https://github.com/dmandrew01/SOC-Home-Lab">SOC Home Lab</a>|
 | Enhanced SIEM analysis and threat detection   | <a href="https://github.com/dmandrew01/Detection-Lab">Detection Lab</a>|
 | Strengthened phishing detection and response skills | <a href="https://github.com/dmandrew01/Phishing-Email-Investigation">Phishing Email Investigation</a>|
 | Improved triage, containment, and incident handling | <a href="https://github.com/dmandrew01/Queue-Management">Queue Management</a>|
@@ -24,16 +25,21 @@ My journey in IT and systems administration has led me to develop a deep passion
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-1A56DB?&style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
+    <img src="https://img.shields.io/badge/-Wazuh-02569B?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security_Onion-3A3A3A?&style=for-the-badge&logo=securityonion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-02569B?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
@@ -50,6 +56,7 @@ My journey in IT and systems administration has led me to develop a deep passion
 - <a href="https://github.com/dmandrew01/Huntress-CTF-2025">Huntress CTF 2025</a>
 
 ## Projects
+- <a href="https://github.com/dmandrew01/SOC-Home-Lab">SOC Home Lab</a>
 - <a href="https://github.com/dmandrew01/Detection-Lab">Detection Lab</a>
 - <a href="https://github.com/dmandrew01/Phishing-Email-Investigation">Phishing Email Investigation</a>
 - <a href="https://github.com/dmandrew01/Queue-Management">Queue Management</a>
