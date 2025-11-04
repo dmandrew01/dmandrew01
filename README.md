@@ -45,6 +45,10 @@ My journey in IT and systems administration has led me to develop a deep passion
 <img src="https://img.shields.io/badge/-DFE-4D4D4D?&style=for-the-badge&logo=ec-council&logoColor=white" />
 </div>
 
+## Capture the Flags
+- <a href="https://github.com/dmandrew01/Holmes-CTF-2025">Holmes CTF 2025</a>
+- <a href="https://github.com/dmandrew01/Huntress-CTF-2025">Huntress CTF 2025</a>
+
 ## Projects
 - <a href="https://github.com/dmandrew01/Detection-Lab">Detection Lab</a>
 - <a href="https://github.com/dmandrew01/Phishing-Email-Investigation">Phishing Email Investigation</a>
