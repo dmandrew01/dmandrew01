@@ -18,6 +18,7 @@ My journey in IT and systems administration has led me to develop a deep passion
 | Gained expertise in malware investigation workflow  | <a href="https://github.com/dmandrew01/PDF-Malware-Analysis">PDF Malware Analysis</a>|
 | Practiced ransomware detection and containment strategies | <a href="https://github.com/dmandrew01/Ransomware-Detection-and-Response">Ransomware Detection and Response</a>|
 | Improved web attack detection and analysis    | <a href="https://github.com/dmandrew01/Web-Attack-Investigation">Web Attack Investigation</a>|
+| Internal audit, risk assessment, and GRC analysis (PCI DSS/GDPR) to deliver prioritized security recommendations | <a href="https://github.com/dmandrew01/Risk-Assessment-Project-1">Botium Toys Security Audit Project</a>
 
 ## Tools
 
@@ -63,3 +64,4 @@ My journey in IT and systems administration has led me to develop a deep passion
 - <a href="https://github.com/dmandrew01/PDF-Malware-Analysis">PDF Malware Analysis</a>
 - <a href="https://github.com/dmandrew01/Ransomware-Detection-and-Response">Ransomware Detection and Response</a>
 - <a href="https://github.com/dmandrew01/Web-Attack-Investigation">Web Attack Investigation</a>
+- <a href="https://github.com/dmandrew01/Risk-Assessment-Project-1">Botium Toys Security Audit Project</a>
