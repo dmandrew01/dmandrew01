@@ -19,7 +19,7 @@ My journey in IT and systems administration has led me to develop a deep passion
 | Practiced ransomware detection and containment strategies | <a href="https://github.com/dmandrew01/Ransomware-Detection-and-Response">Ransomware Detection and Response</a>|
 | Improved web attack detection and analysis    | <a href="https://github.com/dmandrew01/Web-Attack-Investigation">Web Attack Investigation</a>|
 | Internal audit, risk assessment, and GRC analysis (PCI DSS/GDPR) to deliver prioritized security recommendations | <a href="https://github.com/dmandrew01/Risk-Assessment-Project-1">Botium Toys Security Audit Project</a>
-| NIST CSF application, DDoS mitigation, Firewall hardening (rate limit/IP check), IDS/IPS planning, IR & Recovery | - <a href="https://github.com/dmandrew01/DDoS-Incident-Response-Strategy-NIST-CSF">DDoS Incident Response Analysis (NIST CSF)</a>
+| NIST CSF application, DDoS mitigation, Firewall hardening (rate limit/IP check), IDS/IPS planning, IR & Recovery | <a href="https://github.com/dmandrew01/DDoS-Incident-Response-Strategy-NIST-CSF">DDoS Incident Response Analysis (NIST CSF)</a>
 
 ## Tools
 
