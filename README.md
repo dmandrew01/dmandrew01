@@ -7,6 +7,13 @@ I’m a Security Analyst and Senior Systems Administrator and veteran with 15+ y
 
 My journey in IT and systems administration has led me to develop a deep passion for cybersecurity, and I am now focused on advancing my skills in Blue Teaming/Security Operations, showcasing practical projects in my portfolio that reflect real-world IT and security solutions.
 
+## Expertise
+- **Information Security**: Proficient in designing and implementing information security policies, risk assessment, and vulnerability management.
+- **Network Security**: Experienced in configuring firewalls, intrusion detection/prevention systems, and secure network architecture.
+- **Threat Detection and Incident Response**: Skilled in identifying and responding to cyber threats, including malware analysis and digital forensics.
+- **Identity and Access Management**: Knowledgeable in managing user identities, access controls, and authentication mechanisms.
+- **Security Auditing and Compliance**: Familiar with conducting security audits, ensuring compliance with industry standards (e.g., NIST, ISO 27001), and preparing for regulatory assessments.
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -23,8 +30,17 @@ My journey in IT and systems administration has led me to develop a deep passion
 
 ## Tools
 
+### IAM
+<div>
+    <img src="https://img.shields.io/badge/-Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ManageEngine-18233C?style=for-the-badge&logo=manageengine&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ManageEngine%20ADManager%20Plus-18233C?style=for-the-badge&logo=manageengine&logoColor=white" />
+</div>
+
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20FMC-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-1A56DB?&style=for-the-badge&logo=pfSense&logoColor=white" />
@@ -39,18 +55,24 @@ My journey in IT and systems administration has led me to develop a deep passion
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chronicle%20SIEM-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chronicle%20SOAR-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security_Onion-3A3A3A?&style=for-the-badge&logo=securityonion&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-02569B?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-DFE-4D4D4D?&style=for-the-badge&logo=ec-council&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DFE-4D4D4D?&style=for-the-badge&logo=ec-council&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cloud%20Cybersecurity-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Capture the Flags
