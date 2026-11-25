@@ -1,5 +1,5 @@
 # Hello, I'm Andrew
-<a href="[https://linkedin.com](https://www.linkedin.com/in/andrewlhernandez/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/andrewlhernandez/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a Security Analyst and Senior Systems Administrator and veteran with 15+ years of experience securing and optimizing enterprise IT environments.
 
@@ -14,19 +14,53 @@ My journey in IT and systems administration has led me to develop a deep passion
 - **Identity and Access Management**: Knowledgeable in managing user identities, access controls, and authentication mechanisms.
 - **Security Auditing and Compliance**: Familiar with conducting security audits, ensuring compliance with industry standards (e.g., NIST, ISO 27001), and preparing for regulatory assessments.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| End-to-end SOC design, network monitoring, SIEM log analysis, IDS/IPS tuning, and adversary emulation | <a href="https://github.com/dmandrew01/SOC-Home-Lab">SOC Home Lab</a>|
-| Enhanced SIEM analysis and threat detection   | <a href="https://github.com/dmandrew01/Detection-Lab">Detection Lab</a>|
-| Strengthened phishing detection and response skills | <a href="https://github.com/dmandrew01/Phishing-Email-Investigation">Phishing Email Investigation</a>|
-| Improved triage, containment, and incident handling | <a href="https://github.com/dmandrew01/Queue-Management">Queue Management</a>|
-| Gained expertise in malware investigation workflow  | <a href="https://github.com/dmandrew01/PDF-Malware-Analysis">PDF Malware Analysis</a>|
-| Practiced ransomware detection and containment strategies | <a href="https://github.com/dmandrew01/Ransomware-Detection-and-Response">Ransomware Detection and Response</a>|
-| Improved web attack detection and analysis    | <a href="https://github.com/dmandrew01/Web-Attack-Investigation">Web Attack Investigation</a>|
-| Internal audit, risk assessment, and GRC analysis (PCI DSS/GDPR) to deliver prioritized security recommendations | <a href="https://github.com/dmandrew01/Risk-Assessment-Project-1">Botium Toys Security Audit Project</a>
-| NIST CSF application, DDoS mitigation, Firewall hardening (rate limit/IP check), IDS/IPS planning, IR & Recovery | <a href="https://github.com/dmandrew01/DDoS-Incident-Response-Strategy-NIST-CSF">DDoS Incident Response Analysis (NIST CSF)</a>
+### 🛡️ Cybersecurity
+
+| Project | What it shows |
+|---|---|
+| [SOC Home Lab](https://github.com/dmandrew01/SOC-Home-Lab) | Virtualized SOC built from scratch: Wazuh SIEM/EDR, pfSense segmentation, and Sysmon telemetry from Windows 11 and Ubuntu endpoints |
+| [Holmes CTF 2025](https://github.com/dmandrew01/Holmes-CTF-2025) | Multi-source intrusion investigation: web, WAF, and app logs, PCAP analysis in Wireshark, and CTI enrichment to trace a web shell, database exfiltration, C2, and persistence |
+| [Huntress CTF 2025](https://github.com/dmandrew01/Huntress-CTF-2025) | Month-long CTF across malware reversing (Ghidra, IDA), memory and disk forensics (Volatility, Autopsy), PCAP analysis, and OSINT |
+| [Botium Toys Security Audit](https://github.com/dmandrew01/Risk-Assessment-Project-1) | Internal audit against NIST CSF, PCI DSS, GDPR, and SOC 2: 7 of 14 controls missing, high risk score of 8, top 5 remediations for IT leadership |
+| [DDoS Incident Response (NIST CSF)](https://github.com/dmandrew01/DDoS-Incident-Response-Strategy-NIST-CSF) | Incident report for a 2-hour ICMP flood outage, mapped to all five NIST CSF functions with firewall hardening and recovery steps |
+
+#### SOC Analyst Labs (LetsDefend)
+
+| Lab | What it shows |
+|---|---|
+| [Queue Management](https://github.com/dmandrew01/Queue-Management) | Triaged a live alert queue and resolved medium, high, and critical incidents involving CVE exploitation |
+| [Ransomware Detection and Response](https://github.com/dmandrew01/Ransomware-Detection-and-Response) | LockBit and Golang ransomware: encryption behavior, persistence, lateral movement, and containment |
+| [Phishing Email Investigation](https://github.com/dmandrew01/Phishing-Email-Investigation) | Header, URL, and attachment analysis with VirusTotal and URLScan to pull IOCs |
+| [Web Attack Investigation](https://github.com/dmandrew01/Web-Attack-Investigation) | Traced SQLi, XSS, and RCE attempts through HTTP logs to root cause |
+| [PDF Malware Analysis](https://github.com/dmandrew01/PDF-Malware-Analysis) | Static and dynamic analysis of a suspicious PDF for embedded scripts and payloads |
+| [Detection Lab](https://github.com/dmandrew01/Detection-Lab) | SIEM log ingestion and attack telemetry analysis |
+
+[See all cybersecurity projects →](https://github.com/search?q=user%3Admandrew01+topic%3Acybersecurity&type=repositories)
+
+### 🤖 Agentic AI
+
+| Project | What it shows |
+|---|---|
+| [Gauntlet Explorer](https://github.com/dmandrew01/agent-gauntlet-explorer) | Autonomous MCP agent for the NVIDIA Developer Live Agent Gauntlet (Nov 2026): maps unknown tools, decodes hidden data across 20+ encodings and ciphers, races two LLMs with tie-break voting, and submits under a hard deadline (Python) |
+| [AHGroup Submission](https://github.com/dmandrew01/dmandrew01-submission) | Packaged, SHA-256 verified build of Gauntlet Explorer as entered at the event |
+
+<!-- Add this row to the Agentic AI table once the notebooks are filled in:
+| [Learn AI 28-Day Challenge](https://github.com/dmandrew01/learn-ai-28) | 28 days of hands-on ML and AI: scikit-learn, PyTorch, Hugging Face transformers, and a FastAPI model served from Docker |
+-->
+
+[See all agentic AI projects →](https://github.com/search?q=user%3Admandrew01+topic%3Aagentic-ai&type=repositories)
+
+<!-- Uncomment once your first System Admin repo is up:
+### 🖥️ IT / Systems Administration
+
+| Project | What it shows |
+|---|---|
+| [Repo Name](https://github.com/dmandrew01/REPO-NAME) | One line on the tools and the outcome |
+
+[See all IT / sysadmin projects →](https://github.com/search?q=user%3Admandrew01+topic%3Asysadmin&type=repositories)
+-->
 
 ## Tools
 
@@ -74,18 +108,3 @@ My journey in IT and systems administration has led me to develop a deep passion
     <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
-
-## Capture the Flags
-- <a href="https://github.com/dmandrew01/Holmes-CTF-2025">Holmes CTF 2025</a>
-- <a href="https://github.com/dmandrew01/Huntress-CTF-2025">Huntress CTF 2025</a>
-
-## Projects
-- <a href="https://github.com/dmandrew01/SOC-Home-Lab">SOC Home Lab</a>
-- <a href="https://github.com/dmandrew01/Detection-Lab">Detection Lab</a>
-- <a href="https://github.com/dmandrew01/Phishing-Email-Investigation">Phishing Email Investigation</a>
-- <a href="https://github.com/dmandrew01/Queue-Management">Queue Management</a>
-- <a href="https://github.com/dmandrew01/PDF-Malware-Analysis">PDF Malware Analysis</a>
-- <a href="https://github.com/dmandrew01/Ransomware-Detection-and-Response">Ransomware Detection and Response</a>
-- <a href="https://github.com/dmandrew01/Web-Attack-Investigation">Web Attack Investigation</a>
-- <a href="https://github.com/dmandrew01/Risk-Assessment-Project-1">Botium Toys Security Audit Project</a>
-- <a href="https://github.com/dmandrew01/DDoS-Incident-Response-Strategy-NIST-CSF">DDoS Incident Response Analysis (NIST CSF)</a>
