@@ -103,7 +103,7 @@ My journey in IT and systems administration has led me to develop a deep passion
 | Certification | Issuer | Earned |
 |---|---|---|
 | **Certified Digital Forensics Essentials (DFE)** | EC-Council | May 2025 |
-| **Security+** (DoD 8570 IAT Level II) | CompTIA | June 2024 |
+| **Security+** (DoD 8140 / 8570 IAT Level II) | CompTIA | June 2024 |
 
 ## Education & Technical Training
 
