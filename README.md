@@ -99,12 +99,17 @@ My journey in IT and systems administration has led me to develop a deep passion
 </div>
 
 ## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DFE-4D4D4D?&style=for-the-badge&logo=ec-council&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Cloud%20Cybersecurity-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</div>
+
+| Certification | Issuer | Earned |
+|---|---|---|
+| **Certified Digital Forensics Essentials (DFE)** | EC-Council | May 2025 |
+| **Security+** (DoD 8570 IAT Level II) | CompTIA | June 2024 |
+
+## Education & Technical Training
+
+| Program | Provider | Completed |
+|---|---|---|
+| **Google Cloud Cybersecurity Certificate** | Google Cloud | September 2026 |
+| **Google Data Analytics Certificate** | Google | June 2026 |
+| **Google Cybersecurity Certificate**<br>Project: [Botium Toys Security Audit](https://github.com/dmandrew01/Risk-Assessment-Project-1) | Google | January 2026 |
+| **Cybersecurity Bootcamp** (24 weeks)<br>Professional Certificate of Completion | University of Texas at Arlington | September 2023 |
