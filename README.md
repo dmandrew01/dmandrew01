@@ -46,10 +46,6 @@ My journey in IT and systems administration has led me to develop a deep passion
 | [Gauntlet Explorer](https://github.com/dmandrew01/agent-gauntlet-explorer) | Autonomous MCP agent for the NVIDIA Developer Live Agent Gauntlet (Nov 2026): maps unknown tools, decodes hidden data across 20+ encodings and ciphers, races two LLMs with tie-break voting, and submits under a hard deadline (Python) |
 | [AHGroup Submission](https://github.com/dmandrew01/dmandrew01-submission) | Packaged, SHA-256 verified build of Gauntlet Explorer as entered at the event |
 
-<!-- Add this row to the Agentic AI table once the notebooks are filled in:
-| [Learn AI 28-Day Challenge](https://github.com/dmandrew01/learn-ai-28) | 28 days of hands-on ML and AI: scikit-learn, PyTorch, Hugging Face transformers, and a FastAPI model served from Docker |
--->
-
 [See all agentic AI projects →](https://github.com/search?q=user%3Admandrew01+topic%3Aagentic-ai&type=repositories)
 
 <!-- Uncomment once your first System Admin repo is up:
